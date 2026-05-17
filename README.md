@@ -1,7 +1,7 @@
 ## 🎯 Purpose of the Engine
 
 This engine is not meant to compete with production engines like Unity or Unreal.  
-Instead, it serves as a **learning-focused codebase**, designed to reveal how:
+Instead, it reveal how:
 
 - Rendering pipelines are built from zero.
 - Physics and collision systems function internally.
